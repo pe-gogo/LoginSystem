@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/michael/BookSystem/lib/spring-context-3.2.5.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/michael/BookSystem/lib/javax.jms.jar!/" />
+      <root url="jar://$USER_HOME$/michael/BookSystem/lib/spring-expression-3.2.5.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/michael/BookSystem/lib/javax.ejb.jar!/" />
+      <root url="jar://$USER_HOME$/michael/BookSystem/lib/javax.transaction.jar!/" />
+      <root url="jar://$USER_HOME$/michael/BookSystem/lib/javax.resource.jar!/" />
+      <root url="jar://$USER_HOME$/michael/BookSystem/lib/javax.servlet.jar!/" />
+      <root url="jar://$USER_HOME$/michael/BookSystem/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$USER_HOME$/michael/BookSystem/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/michael/BookSystem/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$USER_HOME$/michael/BookSystem/lib/spring-beans-3.2.5.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/michael/BookSystem/lib/javax.persistence.jar!/" />
+      <root url="jar://$USER_HOME$/michael/BookSystem/lib/javax.annotation.jar!/" />
+      <root url="jar://$USER_HOME$/michael/BookSystem/lib/spring-core-3.2.5.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
